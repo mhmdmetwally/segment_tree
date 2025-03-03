@@ -1,1 +1,3 @@
 # segment_tree
+
+##notes
